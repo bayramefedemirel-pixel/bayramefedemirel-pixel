@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Selam, ben Bayram Efe 👋
 
 Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim. Yazılım geliştirme dünyasında kendimi sürekli geliştirirken, asıl tutkum olan yapay zeka çözümlerine odaklanıyorum. Gelecekte **Yapay Zeka Mühendisi** olmak ve **Makine Öğrenimi (Machine Learning)** alanında küresel ölçekte projeler üretmek vizyonuyla çalışıyorum.
@@ -23,15 +21,15 @@ Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim
 
 ### 🚀 Öne Çıkan Projeler
 
-#### 🧠 Yapay Zeka & Bilgisayarlı Görü Sistemleri (Underwater Vision)
-* **Açıklama:** TEKNOFEST süreçleri ve insansız su altı araçları için özel olarak geliştirilmiş gerçek zamanlı nesne tespit sistemi. Farklı YOLO mimarileri kullanılarak su altındaki geometrik şekillerin ve nesnelerin yüksek doğrulukla tanınması için veri setleri sıfırdan hazırlanmış, eğitilmiş ve optimize edilmiştir.
+#### 🧠 [Underwater Object Detection](https://github.com/bayramefedemirel-pixel/underwater-object-detection)
+* **Açıklama:** İnsansız su altı araçları için özel olarak geliştirilmiş gerçek zamanlı nesne tespit sistemi. Farklı YOLO mimarileri kullanılarak su altındaki geometrik şekillerin ve nesnelerin yüksek doğrulukla tanınması için veri setleri sıfırdan hazırlanmış, bulut tabanlı sistemlerde eğitilmiş ve optimize edilmiştir.
 * **Teknolojiler:** Python, YOLO, OpenCV
 
-#### 🛠️ project-base-backend
+#### 🛠️ [project-base-backend](https://github.com/bayramefedemirel-pixel/project-base-backend)
 * **Açıklama:** Ölçeklenebilir ve modüler yapıda geliştirilmiş, gelecekteki projelerim için sağlam bir temel oluşturan backend mimarisi. RESTful API standartlarına uygun, temiz ve sürdürülebilir bir kod yapısına sahiptir.
 * **Teknolojiler:** Node.js, Express, JavaScript
 
-#### 🎨 avatar-generator
+#### 🎨 [avatar-generator](https://github.com/bayramefedemirel-pixel/avatar-generator)
 * **Açıklama:** Kullanıcıların kişisel portfolyoları veya profilleri için dinamik ve özelleştirilebilir avatarlar oluşturmasını sağlayan interaktif web uygulaması.
 * **Teknolojiler:** Vanilla JavaScript, HTML5, CSS3
 
@@ -39,8 +37,10 @@ Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim
 
 ### 📫 Benimle İletişime Geç
 
-* **E-posta:** bayramefedemirel@gmail.com
-* **GitHub:** [@bayramefedemirel-pixel](https://github.com/bayramefedemirel-pixel)
+<p align="left">
+  <a href="https://www.linkedin.com/in/bayram-efe-demirel-7561a3216/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bayramefedemirel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bayramefedemirel-pixel&show_icons=true&theme=tokyonight" alt="Bayram Efe's GitHub Stats" />
