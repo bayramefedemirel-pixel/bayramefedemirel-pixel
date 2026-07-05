@@ -21,7 +21,7 @@ Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim
 
 ### 🚀 Öne Çıkan Projeler
 
-#### 🧠 [Underwater Object Detection](https://github.com/bayramefedemirel-pixel/underwater-object-detection)
+#### 🧠 [Underwater Object Detection](https://github.com/bayramefedemirel-pixel/underwater-object-detection-.git)
 * **Açıklama:** İnsansız su altı araçları için özel olarak geliştirilmiş gerçek zamanlı nesne tespit sistemi. Farklı YOLO mimarileri kullanılarak su altındaki geometrik şekillerin ve nesnelerin yüksek doğrulukla tanınması için veri setleri sıfırdan hazırlanmış, bulut tabanlı sistemlerde eğitilmiş ve optimize edilmiştir.
 * **Teknolojiler:** Python, YOLO, OpenCV
 
