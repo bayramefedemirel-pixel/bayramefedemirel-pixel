@@ -29,9 +29,9 @@ Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim
 * **Açıklama:** Ölçeklenebilir ve modüler yapıda geliştirilmiş, gelecekteki projelerim için sağlam bir temel oluşturan backend mimarisi. RESTful API standartlarına uygun, temiz ve sürdürülebilir bir kod yapısına sahiptir.
 * **Teknolojiler:** Node.js, Express, JavaScript
 
-#### 🎨 [avatar-generator](https://github.com/bayramefedemirel-pixel/avatar-generator)
-* **Açıklama:** Kullanıcıların kişisel portfolyoları veya profilleri için dinamik ve özelleştirilebilir avatarlar oluşturmasını sağlayan interaktif web uygulaması.
-* **Teknolojiler:** Vanilla JavaScript, HTML5, CSS3
+* 🗺️ **leadsmap**
+    * **Açıklama:** Dijital pazarlama ajansları, SEO uzmanları ve serbest çalışan danışmanlar için geliştirilmiş, belirli bir bölgedeki yerel işletmelerin dijital eksikliklerini analiz eden elit bir Mikro-B2B SaaS altyapısı. İşletmelerin web sitesi eksikliklerini, Google Harita puan kritiklerini ve sosyal medya yönetim açıklarını tespit ederek nitelikli satış fırsatına dönüştürür.
+    * **Teknolojiler:** Python, Flask, HTML5, CSS3, Vanilla JavaScript (Fetch API)
 
 ---
 
