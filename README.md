@@ -25,7 +25,7 @@ Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim
 * **Açıklama:** İnsansız su altı araçları için özel olarak geliştirilmiş gerçek zamanlı nesne tespit sistemi. Farklı YOLO mimarileri kullanılarak su altındaki geometrik şekillerin ve nesnelerin yüksek doğrulukla tanınması için veri setleri sıfırdan hazırlanmış, bulut tabanlı sistemlerde eğitilmiş ve optimize edilmiştir.
 * **Teknolojiler:** Python, YOLO, OpenCV
 
-#### 🛠️ [project-base-backend](https://github.com/bayramefedemirel-pixel/project-base-backend)
+#### 🛠️ [project-base-backend](https://github.com/bayramefedemirel-pixel/project-base-backend-.git)
 * **Açıklama:** Ölçeklenebilir ve modüler yapıda geliştirilmiş, gelecekteki projelerim için sağlam bir temel oluşturan backend mimarisi. RESTful API standartlarına uygun, temiz ve sürdürülebilir bir kod yapısına sahiptir.
 * **Teknolojiler:** Node.js, Express, JavaScript
 
