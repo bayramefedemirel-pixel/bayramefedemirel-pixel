@@ -35,6 +35,12 @@ Türk Hava Kurumu Üniversitesi'nde **Bilgisayar Mühendisliği** öğrencisiyim
 
 ---
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 ### 📫 Benimle İletişime Geç
 
 <p align="left">
